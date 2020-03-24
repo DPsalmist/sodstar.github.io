@@ -1,0 +1,116 @@
+ul li a {
+	color: navy;
+}
+
+ a:hover {
+	color: maroon;
+	border-bottom-color: maroon;
+	border-bottom: 1px solid maroon;
+}
+nav {
+	transition: background-color 1s ease-out;
+	box-shadow: 0px 4px 7px #777;
+	color:  #d3d3d3;
+}
+.container{
+	min-height: 2000px;
+	border:0px solid red;
+}
+
+.section{
+	margin-top: 30px;
+	box-shadow: 1px 3px 1px 3px #d3d3d3;
+	min-height: 420px; 
+}
+
+#contact{
+	margin-bottom: 100px;
+}
+
+#footer a{
+	color: navy;
+}
+
+#footer {
+	color: navy;
+	background-color: #d3d3d3;
+	display: inline-flex;
+}
+
+#footer a:hover {
+	color: maroon;
+}
+
+.img{
+	height: 185px;
+	width: 185px; 
+	border-radius: 50%; 
+	box-shadow: 2px 3px 2px navy;
+	display: flex;
+	float: left;
+	margin-right: 10px;
+	margin-top: 50px;
+}
+
+.cards{
+	min-height: 50px;
+	justify-content: center;
+	text-align: center;
+	padding: 10px;
+	display: flex;
+}
+
+.cardpic{
+	height: 130px;
+}
+
+.icons{
+	height: 30px;
+	width: 30px;
+	border-radius: 50%;
+	text-decoration: none;
+}
+
+#carouselExampleFade{
+	margin-top: 50px;
+}
+
+.single_sections{
+	margin-top: 150px;
+}
+
+.bg_img{
+	height: 520px;
+	width: 100%;
+	margin-top: 50px;
+}
+
+.buttons{
+	background-color: navy;
+	color: #fff;
+}
+.buttons:hover{
+	background-color: maroon;
+	color: #fff;
+}
+
+.projects{
+	justify-content: center;
+	margin: auto;
+	text-align: center;
+	height: 300px;
+	width: 50%;
+}
+
+h2{
+	text-align: center;
+	color: navy;
+	box-shadow: 1px 0px 1px #d3d3d3;
+}
+h2:hover{
+	color: maroon;
+}
+body {
+	background-color: ;
+	font-family: inherit Roboto Slab Montserrat, Titillium Web, sans serif;
+}
